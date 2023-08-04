@@ -1,2 +1,2 @@
 # autoclicker
-Automatically player clicker games.
+Automatically plays clicker games.  Made with Clicker Heroes in mind.
